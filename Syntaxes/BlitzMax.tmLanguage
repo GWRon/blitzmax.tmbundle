@@ -1388,7 +1388,7 @@
 		<key>bmax_types</key>
 		<dict>
 			<key>match</key>
-			<string>(?i)\b(object|string|byte|short|int|long|float|double)\b</string>
+			<string>(?i)\b(object|string|byte|short|int|long|float|double|uint|ulong|size_t)\b</string>
 			<key>name</key>
 			<string>storage.type.blitzmax</string>
 		</dict>
